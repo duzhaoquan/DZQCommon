@@ -1,1 +1,1 @@
-export { MainPage } from './src/main/ets/components/MainPage'
+export { StringUtil } from './src/main/ets/tools/StringUtil'
